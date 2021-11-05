@@ -1,0 +1,22 @@
+/* Navigation Styling */
+
+/* Desktop Nav */
+.nav-container {
+    margin: 0;
+    max-width: 1500px;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link-items {
+    padding-right: 10rem;
+}
+
+.nav-link-text {
+    color: black;
+}
